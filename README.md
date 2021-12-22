@@ -1,5 +1,5 @@
 # Eliza
-Projeto da disciplina de Paradigmas de Linguagem de Programação - 2021/2. Eliza é um programa desenvolvido em Prolog que consume entradas do usuário e fornece respostas de acordo com um conjunto interno de regras. 
+Eliza é um programa desenvolvido em Prolog que consume entradas do usuário e fornece respostas de acordo com um conjunto interno de regras. 
 
 **Exemplo de interação**
 ```
